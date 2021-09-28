@@ -1,1 +1,3 @@
-# Grow_Tower
+# Automated Hydroponic Grow Tower
+### Petie & Cailin
+---
