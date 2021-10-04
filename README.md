@@ -1,5 +1,5 @@
 # Automated Hydroponic Grow Tower
-### Petie & Cailin
+<p font-size="10" style="color:purple">Petie & Cailin</p>
 ---
 The Automated Hydroponic Growtower is a hydroponic system that uses a Raspberry Pi to automate many services such as watering the plants, turning on the UV grow lights and telling you when you need to fill the water reervoir. The purpose of a grow tower is being able to grow plants faster and without soil. The water is going staright to the roots thus expediting the growth procces, at least thatrs my basic understanding of the project.
 
